@@ -27,4 +27,16 @@
         xsi:type="archimate:Device"
         href="Device_id-554caea64d614ca5853ec7a467135cc6.xml#id-554caea64d614ca5853ec7a467135cc6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0cb9745bb3444fe889bed131c32a7e7a">
+    <bounds
+        x="628"
+        y="385"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-890144300fa445d499ff0a137051902b.xml#id-890144300fa445d499ff0a137051902b"/>
+  </children>
 </archimate:ArchimateDiagramModel>
